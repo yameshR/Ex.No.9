@@ -1,7 +1,6 @@
+# NAME : HARINI E
+# REG NO : 212222050017
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
-
-# Date:
-# Reg. No.:
 
 # Aim:
 To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
@@ -48,6 +47,48 @@ Tools/LLMs for Video Generation:
 2.	The Final Generated Video: The Video created using your refined prompt.
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
+
+# Prompt :
+## 1.Create a Simple Prompt:
+#### A short and direct description to generate a basic scene.
+
+A man walking through a forest during sunset is a journey into serenity and wonder. The golden light filters through the trees, casting long shadows and painting the world in hues of amber and crimson. Every step crunches softly on the forest floor, blending with the distant calls of birds settling in for the night.
+
+## Video :
+
+
+
+https://github.com/user-attachments/assets/1b5eabbb-ca8a-4140-9efe-982f66eaeb62
+
+
+
+This prompt was used  hailuoai.vide and Make-A-Video to observe basic animation, environment understanding, and subject motion.
+# Prompt :
+## 2.Create a Detailed Prompt:
+#### A descriptive prompt with more context, action, and setting.
+
+Create an illustration of the man standing boldly against the spaceship firing missiles.
+
+## Video :
+
+https://github.com/user-attachments/assets/5ef6da51-47b8-4052-8b1f-b146cf710030
+
+
+This prompt was run in Imagen Video and Make-A-Video to assess how well the model handles detailed instructions and renders natural scenery with realistic motion.
+
+
+# Prompt : 
+Advance Creative Prompt :
+A high-speed car race on a professional racetrack during golden hour. Sleek sports cars of various colors — red, blue, black, and yellow — zoom past the camera with motion blur, kicking up dust as they drift around corners. The grandstands are filled with cheering fans. Helicopters follow the race from above. The sky glows with a warm orange hue, casting long shadows across the track. Include dynamic camera angles — low shots near the wheels, aerial views, and slow-motion drifts."
+## Video :
+
+
+https://github.com/user-attachments/assets/7c48ac86-0451-4326-bc52-8f7a12fdcd96
+
+# Overview Report :
+![Screenshot 2025-05-19 003541](https://github.com/user-attachments/assets/235ceefb-2bb7-4341-b9f3-5a84adfe39ac)
+
+
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.

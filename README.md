@@ -1,5 +1,5 @@
-# NAME : HARINI E
-# REG NO : 212222050017
+# NAME : YAMESH R
+# REG NO : 212222220059
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
 # Aim:
